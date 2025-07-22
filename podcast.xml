@@ -1,0 +1,3522 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>喜马讲书 | 超2000本各领域经典好书及名著精讲 | 每天25分钟为你深度解读一本书</title>
+    <itunes:subtitle>忠实传递价值，解读全球好书</itunes:subtitle>
+    <link>https://github.com/Kukukukiki192/hima-booktalk-podcast/</link>
+    <language>zh-CN</language>
+    <itunes:author>喜马讲书</itunes:author>
+    <description>你上次读完一本书，是什么时候？
+
+读书，不知不觉成了一件「三无」的事。
+
+- 出版市场鱼龙混杂，没有眼光挑书。
+- 信息超载事务冗杂，没有时间读书。
+- 加班繁重身心疲惫，没有精力读书。
+
+读书，向来是最低成本的高贵。但它的成本，似乎越来越高了。
+
+有没有办法代替传统阅读形式，以最低成本获取好书精华，拓展认知？
+
+喜马讲书，让你的读书成本，趋近于零。
+
+-专业编辑团队，为你优中选优，挑出1000本各领域经典好书。
+-每本书25分钟精华音频呈现。无需额外时间，通勤、吃饭、睡前….随时随地听完一本。
+-各领域专业撰稿人，历时200小时打磨讲书稿，你想读却啃不下的书，我们统统帮你读。</description>
+    <itunes:image href="https://raw.githubusercontent.com/Kukukukiki192/hima-booktalk-podcast/main/cover.png"/>
+    <itunes:category text="人文国学"/>
+    <item>
+      <title>1.社科 《未来简史》：张文宏推荐，赫拉利“简史三部曲”科学为什么会瓦解人类？</title>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/1.mp3" type="audio/mpeg"/>
+      <guid>001</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2.心理 《社会心理学》上 ：800万人使用的教材，5000项实证研究，带你入门社会心理学</title>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/2.mp3" type="audio/mpeg"/>
+      <guid>002</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>3.心理 《社会心理学》下 ：800万人使用的教材，5000项实证研究，带你入门社会心理学</title>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/3.mp3" type="audio/mpeg"/>
+      <guid>003</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>4.生活 《断舍离(上)》 袁春楠（影响百万人的人生整理哲学）</title>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/4.mp3" type="audio/mpeg"/>
+      <guid>004</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>5.生活 《断舍离(下)》 袁春楠（影响百万人的人生整理哲学）</title>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/5.mp3" type="audio/mpeg"/>
+      <guid>005</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>6.历史  《万历十五年（上）》黄仁宇（了解明朝必读书，张居正、万历的悲剧人生）</title>
+      <itunes:episode>6</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/6.mp3" type="audio/mpeg"/>
+      <guid>006</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>7.历史  《万历十五年（下）》黄仁宇（了解明朝必读书，戚继光的失败）</title>
+      <itunes:episode>7</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/7.mp3" type="audio/mpeg"/>
+      <guid>007</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>8.艺术 《迎向灵光消逝的年代》</title>
+      <itunes:episode>8</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/8.mp3" type="audio/mpeg"/>
+      <guid>008</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>9.经管 《彼得·林奇的成功投资》：通俗易学的专业股票投资秘籍</title>
+      <itunes:episode>9</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/9.mp3" type="audio/mpeg"/>
+      <guid>009</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>10.历史 《饶家驹安全区》</title>
+      <itunes:episode>10</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/10.mp3" type="audio/mpeg"/>
+      <guid>010</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>11.经管 《从0到1（上）》：硅谷最懂创业的人传授创业秘籍</title>
+      <itunes:episode>11</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/11.mp3" type="audio/mpeg"/>
+      <guid>011</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>12.经管 《从0到1（下）》：硅谷最懂创业的人传授创业秘籍</title>
+      <itunes:episode>12</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/12.mp3" type="audio/mpeg"/>
+      <guid>012</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>13.成长 《非暴力沟通（上）》：香港大学推荐的50本必读书籍</title>
+      <itunes:episode>13</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/13.mp3" type="audio/mpeg"/>
+      <guid>013</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>14.成长 《非暴力沟通（下）》：香港大学推荐的50本必读书籍</title>
+      <itunes:episode>14</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/14.mp3" type="audio/mpeg"/>
+      <guid>014</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>15.成长 《改变：问题形成与解决的原则》</title>
+      <itunes:episode>15</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/15.mp3" type="audio/mpeg"/>
+      <guid>015</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>16.文学 《傅雷家书（上）》：翻译家傅雷12年的教育心得</title>
+      <itunes:episode>16</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/16.mp3" type="audio/mpeg"/>
+      <guid>016</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>17.文学 《傅雷家书（下）》：翻译家傅雷12年的教育心得</title>
+      <itunes:episode>17</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/17.mp3" type="audio/mpeg"/>
+      <guid>017</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>18.科普 《基因》：基因重组，一段隐秘的历史</title>
+      <itunes:episode>18</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/18.mp3" type="audio/mpeg"/>
+      <guid>018</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>19.文学 《解忧杂货店（上）》：日本悬疑作家的感动之作（东野圭吾）</title>
+      <itunes:episode>19</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/19.mp3" type="audio/mpeg"/>
+      <guid>019</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>20.文学 《解忧杂货店（下）》：日本悬疑作家的感动之作（东野圭吾）</title>
+      <itunes:episode>20</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/20.mp3" type="audio/mpeg"/>
+      <guid>020</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>21.成长 《精要主义》</title>
+      <itunes:episode>21</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/21.mp3" type="audio/mpeg"/>
+      <guid>021</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>22.历史 《旧制度与大革命》商务印书馆“汉译名著”系列，托克维尔最具知名度的著作之一</title>
+      <itunes:episode>22</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/22.mp3" type="audio/mpeg"/>
+      <guid>022</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>23.文学 《局外人》</title>
+      <itunes:episode>23</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/23.mp3" type="audio/mpeg"/>
+      <guid>023</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>24.社科 《菊与刀（上）》现代“日本学”开山之源，了解日本国民性格入门经典</title>
+      <itunes:episode>24</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/24.mp3" type="audio/mpeg"/>
+      <guid>024</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>25.社科 《菊与刀（下）》现代“日本学”开山之源，了解日本国民性格入门经典</title>
+      <itunes:episode>25</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/25.mp3" type="audio/mpeg"/>
+      <guid>025</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>26.艺术 《可可香奈儿传奇的一生（上）》时尚教主、奢侈品女王的个人传记</title>
+      <itunes:episode>26</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/26.mp3" type="audio/mpeg"/>
+      <guid>026</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>27.艺术 《可可香奈儿传奇的一生（下）》时尚教主、奢侈品女王的个人传记</title>
+      <itunes:episode>27</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/27.mp3" type="audio/mpeg"/>
+      <guid>027</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>28.经管 《牛奶可乐经济学》：通俗经济学的开山之作：用经济学解释生活中司空见惯的事物</title>
+      <itunes:episode>28</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/28.mp3" type="audio/mpeg"/>
+      <guid>028</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>29.科普 《柔软的宇宙》相对论外传，纵横物理学、数学、天文学，带你养成科学思维</title>
+      <itunes:episode>29</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/29.mp3" type="audio/mpeg"/>
+      <guid>029</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>30.文学 《追风筝的人》：全球销量超4000万册的经典文学（卡勒德·胡赛尼）</title>
+      <itunes:episode>30</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/30.mp3" type="audio/mpeg"/>
+      <guid>030</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>31.艺术 《设计中的设计》</title>
+      <itunes:episode>31</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/31.mp3" type="audio/mpeg"/>
+      <guid>031</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>32.经管 《财务自由之路（上）》：7年内赚到你的第一个1000万</title>
+      <itunes:episode>32</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/32.mp3" type="audio/mpeg"/>
+      <guid>032</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>33.经管 《财务自由之路（下）》：7年内赚到你的第一个1000万</title>
+      <itunes:episode>33</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/33.mp3" type="audio/mpeg"/>
+      <guid>033</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>34.亲子 《童年的秘密》</title>
+      <itunes:episode>34</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/34.mp3" type="audio/mpeg"/>
+      <guid>034</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>35.心理 《幸福的方法》：“哈佛大学最受欢迎的导师”教你提升幸福指数的方法</title>
+      <itunes:episode>35</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/35.mp3" type="audio/mpeg"/>
+      <guid>035</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>36.经管 《引爆点》</title>
+      <itunes:episode>36</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/36.mp3" type="audio/mpeg"/>
+      <guid>036</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>37.经管 《领导力21法则》</title>
+      <itunes:episode>37</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/37.mp3" type="audio/mpeg"/>
+      <guid>037</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>38.艺术 《演员自我修养》</title>
+      <itunes:episode>38</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/38.mp3" type="audio/mpeg"/>
+      <guid>038</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>39.历史 《潜规则》</title>
+      <itunes:episode>39</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/39.mp3" type="audio/mpeg"/>
+      <guid>039</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>40.哲学 《哲学的慰藉》带你走近苏格拉底、尼采、叔本华等大师的精神世界</title>
+      <itunes:episode>40</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/40.mp3" type="audio/mpeg"/>
+      <guid>040</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>41.经管 《灰犀牛》</title>
+      <itunes:episode>41</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/41.mp3" type="audio/mpeg"/>
+      <guid>041</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>42.成长 《哈佛非虚构写作课》</title>
+      <itunes:episode>42</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/42.mp3" type="audio/mpeg"/>
+      <guid>042</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>43.艺术 《认识电影》</title>
+      <itunes:episode>43</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/43.mp3" type="audio/mpeg"/>
+      <guid>043</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>44.社科 《人类简史》：张文宏推荐，跨越十万年的人类历史</title>
+      <itunes:episode>44</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/44.mp3" type="audio/mpeg"/>
+      <guid>044</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>45.心理 《乌合之众（上）》：揭示心理操纵真相的百年经典（古斯塔夫·勒庞）</title>
+      <itunes:episode>45</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/45.mp3" type="audio/mpeg"/>
+      <guid>045</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>46.心理 《乌合之众（下）》：揭示心理操纵真相的百年经典（古斯塔夫·勒庞）</title>
+      <itunes:episode>46</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/46.mp3" type="audio/mpeg"/>
+      <guid>046</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>47.经管 《伟大的博弈》：从华尔街金融帝国的崛起，窥见美国资本市场的发展历史</title>
+      <itunes:episode>47</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/47.mp3" type="audio/mpeg"/>
+      <guid>047</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>48.心理 《拖延心理学》：告别拖延带来的恐惧与焦虑，重新掌控人生</title>
+      <itunes:episode>48</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/48.mp3" type="audio/mpeg"/>
+      <guid>048</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>49.经管 《鞋狗》：耐克创始人菲尔•奈特亲笔自传</title>
+      <itunes:episode>49</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/49.mp3" type="audio/mpeg"/>
+      <guid>049</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>50.成长 《自控力》：斯坦福大学最受欢迎的心理学课程</title>
+      <itunes:episode>50</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/50.mp3" type="audio/mpeg"/>
+      <guid>050</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>51.哲学 《理想国》西方哲学的源头</title>
+      <itunes:episode>51</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/51.mp3" type="audio/mpeg"/>
+      <guid>051</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>52.科普 《人工智能时代》</title>
+      <itunes:episode>52</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/52.mp3" type="audio/mpeg"/>
+      <guid>052</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>53.经管 《1844年经济学哲学手稿》</title>
+      <itunes:episode>53</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/53.mp3" type="audio/mpeg"/>
+      <guid>053</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>54.历史 《世界小史》：20世纪著名艺术史家贡布里希，写给孩子和恋人的世界史</title>
+      <itunes:episode>54</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/54.mp3" type="audio/mpeg"/>
+      <guid>054</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>55.成长 《天才源自刻意练习》</title>
+      <itunes:episode>55</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/55.mp3" type="audio/mpeg"/>
+      <guid>055</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>56.心理 《FBI心理分析术 》：FBI行为科学调查组超强阅人术，用破案逻辑看透人的行为</title>
+      <itunes:episode>56</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/56.mp3" type="audio/mpeg"/>
+      <guid>056</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>57.艺术《故事》：“好莱坞编剧教父”经典之作，教你如何讲一个好故事</title>
+      <itunes:episode>57</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/57.mp3" type="audio/mpeg"/>
+      <guid>057</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>58.科普 《七堂极简物理课》</title>
+      <itunes:episode>58</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/58.mp3" type="audio/mpeg"/>
+      <guid>058</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>59.传记 《活着为了讲述》</title>
+      <itunes:episode>59</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/59.mp3" type="audio/mpeg"/>
+      <guid>059</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>60.经管 《上瘾》：如何勾住用户？创业者、产品经理、广告创意人必读！</title>
+      <itunes:episode>60</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/60.mp3" type="audio/mpeg"/>
+      <guid>060</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>61.经管 《浪潮之巅》：纵览互联网巨头兴衰变化，从科技工业百年史看创业公司成功的本质</title>
+      <itunes:episode>61</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/61.mp3" type="audio/mpeg"/>
+      <guid>061</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>62.经管 《巴菲特致股东的信》：张文宏推荐，关于价值投资的经典著作</title>
+      <itunes:episode>62</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/62.mp3" type="audio/mpeg"/>
+      <guid>062</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>63.经管 《大转型》</title>
+      <itunes:episode>63</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/63.mp3" type="audio/mpeg"/>
+      <guid>063</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>64.历史 《隋唐制度渊源略论稿》：陈寅恪揭示隋唐强盛的历史渊源</title>
+      <itunes:episode>64</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/64.mp3" type="audio/mpeg"/>
+      <guid>064</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>65.成长 《罗伯特议事规则》</title>
+      <itunes:episode>65</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/65.mp3" type="audio/mpeg"/>
+      <guid>065</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>66.心理 《天才在左疯子在右》：“被誉为国内第一本精神病人访谈手记”</title>
+      <itunes:episode>66</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/66.mp3" type="audio/mpeg"/>
+      <guid>066</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>67.传记 《硅谷钢铁侠》SpaceX和特斯拉的掌舵人——埃隆·马斯克的冒险人生</title>
+      <itunes:episode>67</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/67.mp3" type="audio/mpeg"/>
+      <guid>067</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>68.成长 《高效15法则》</title>
+      <itunes:episode>68</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/68.mp3" type="audio/mpeg"/>
+      <guid>068</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>69.哲学 《君主论》</title>
+      <itunes:episode>69</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/69.mp3" type="audio/mpeg"/>
+      <guid>069</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>70.成长 《让创意更有黏性》</title>
+      <itunes:episode>70</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/70.mp3" type="audio/mpeg"/>
+      <guid>070</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>71.科普 《物种起源》</title>
+      <itunes:episode>71</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/71.mp3" type="audio/mpeg"/>
+      <guid>071</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>72.心理 《生命的重建》</title>
+      <itunes:episode>72</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/72.mp3" type="audio/mpeg"/>
+      <guid>072</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>73.心理 《慢思考》</title>
+      <itunes:episode>73</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/73.mp3" type="audio/mpeg"/>
+      <guid>073</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>74.历史 《天朝的崩溃》：鸦片战争的第一份全景描绘，解析这场颠覆清王朝的浩劫</title>
+      <itunes:episode>74</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/74.mp3" type="audio/mpeg"/>
+      <guid>074</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>75.亲子 《正面管教》</title>
+      <itunes:episode>75</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/75.mp3" type="audio/mpeg"/>
+      <guid>075</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>76.经管 《干法》</title>
+      <itunes:episode>76</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/76.mp3" type="audio/mpeg"/>
+      <guid>076</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>77.经管 《定位》</title>
+      <itunes:episode>77</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/77.mp3" type="audio/mpeg"/>
+      <guid>077</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>78.经管 《股票大作手操盘术》</title>
+      <itunes:episode>78</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/78.mp3" type="audio/mpeg"/>
+      <guid>078</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>79.历史 《文明的冲突与世界秩序的重建》：哈佛教授塞缪尔·亨廷顿力作</title>
+      <itunes:episode>79</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/79.mp3" type="audio/mpeg"/>
+      <guid>079</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>80.心理 《怪诞心理学》：揭秘日常生活的古怪之处，带你看透人心</title>
+      <itunes:episode>80</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/80.mp3" type="audio/mpeg"/>
+      <guid>080</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>81.哲学 《苏格拉底的申辩》柏拉图带你了解西方哲学史上的核心事件：苏格拉底之死</title>
+      <itunes:episode>81</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/81.mp3" type="audio/mpeg"/>
+      <guid>081</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>82.科普 《时间简史（上）》（霍金传世经典，物理天文科普爱好者必读）</title>
+      <itunes:episode>82</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/82.mp3" type="audio/mpeg"/>
+      <guid>082</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>83.科普 《时间简史（下）》（霍金传世经典，物理天文科普爱好者必读）</title>
+      <itunes:episode>83</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/83.mp3" type="audio/mpeg"/>
+      <guid>083</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>84.亲子 《斯宾塞的快乐教育》</title>
+      <itunes:episode>84</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/84.mp3" type="audio/mpeg"/>
+      <guid>084</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>85.成长 《搞定》</title>
+      <itunes:episode>85</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/85.mp3" type="audio/mpeg"/>
+      <guid>085</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>86.经管 《逃不开的经济周期》</title>
+      <itunes:episode>86</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/86.mp3" type="audio/mpeg"/>
+      <guid>086</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>87.社科 《童年的消逝》</title>
+      <itunes:episode>87</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/87.mp3" type="audio/mpeg"/>
+      <guid>087</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>88.社科 《错把妻子当帽子》</title>
+      <itunes:episode>88</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/88.mp3" type="audio/mpeg"/>
+      <guid>088</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>89.传记 《十年一觉电影梦李安传》：李安唯一授权传记</title>
+      <itunes:episode>89</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/89.mp3" type="audio/mpeg"/>
+      <guid>089</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>90.传记 《名人传(上)》</title>
+      <itunes:episode>90</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/90.mp3" type="audio/mpeg"/>
+      <guid>090</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>91.传记 《名人传(下)》</title>
+      <itunes:episode>91</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/91.mp3" type="audio/mpeg"/>
+      <guid>091</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>92.亲子 《孩子：挑战》</title>
+      <itunes:episode>92</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/92.mp3" type="audio/mpeg"/>
+      <guid>092</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>93.成长 《认同》：哈佛商学院终身教授教你赢取支持的艺术</title>
+      <itunes:episode>93</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/93.mp3" type="audio/mpeg"/>
+      <guid>093</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>94.经管 《商业的本质》：“全球杰出CEO”杰克·韦尔奇封笔之作</title>
+      <itunes:episode>94</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/94.mp3" type="audio/mpeg"/>
+      <guid>094</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>95.历史 《耶路撒冷三千年》了解神圣之城耶路撒冷的历史</title>
+      <itunes:episode>95</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/95.mp3" type="audio/mpeg"/>
+      <guid>095</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>96.科普 《对“伪心理学”说不》</title>
+      <itunes:episode>96</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/96.mp3" type="audio/mpeg"/>
+      <guid>096</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>97.哲学 《人性论》英国哲学家休谟用人性研究揭示人的理智、情感与道德行为的准则</title>
+      <itunes:episode>97</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/97.mp3" type="audio/mpeg"/>
+      <guid>097</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>98.艺术 《西方美学史》</title>
+      <itunes:episode>98</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/98.mp3" type="audio/mpeg"/>
+      <guid>098</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>99.亲子 《爱和自由》</title>
+      <itunes:episode>99</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/99.mp3" type="audio/mpeg"/>
+      <guid>099</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>100.成长 《跃迁》</title>
+      <itunes:episode>100</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/100.mp3" type="audio/mpeg"/>
+      <guid>100</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>101.成长 《疯传》</title>
+      <itunes:episode>101</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/101.mp3" type="audio/mpeg"/>
+      <guid>101</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>102.历史 《论美国的民主》了解美国必读书，看懂民主本质，理解民主运行机制的首选经典</title>
+      <itunes:episode>102</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/102.mp3" type="audio/mpeg"/>
+      <guid>102</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>103.社科 《梦的解析(上)》弗洛伊德扛鼎之作，影响整个20世纪的精神分析巨著</title>
+      <itunes:episode>103</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/103.mp3" type="audio/mpeg"/>
+      <guid>103</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>104.社科 《梦的解析(下)》弗洛伊德扛鼎之作，影响整个20世纪的精神分析巨著</title>
+      <itunes:episode>104</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/104.mp3" type="audio/mpeg"/>
+      <guid>104</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>105.社科 《我在底层的生活（上）》：女记者化身服务员，揭示美国“穷忙族”生存困境</title>
+      <itunes:episode>105</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/105.mp3" type="audio/mpeg"/>
+      <guid>105</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>106.社科 《我在底层的生活（下）》：女记者化身服务员，揭示美国“穷忙族”生存困境</title>
+      <itunes:episode>106</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/106.mp3" type="audio/mpeg"/>
+      <guid>106</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>107.科普 《改变世界的方程》</title>
+      <itunes:episode>107</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/107.mp3" type="audio/mpeg"/>
+      <guid>107</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>108.成长 《游戏力II》</title>
+      <itunes:episode>108</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/108.mp3" type="audio/mpeg"/>
+      <guid>108</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>109.成长 《刻意练习》：从新手到大师，这种技巧人人都可以掌握。新东方董宇辉推荐</title>
+      <itunes:episode>109</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/109.mp3" type="audio/mpeg"/>
+      <guid>109</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>110.成长 《哈佛商学院最受欢迎的领导课》</title>
+      <itunes:episode>110</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/110.mp3" type="audio/mpeg"/>
+      <guid>110</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>111.心理 《路西法效应》</title>
+      <itunes:episode>111</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/111.mp3" type="audio/mpeg"/>
+      <guid>111</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>112.成长 《反焦虑思维》</title>
+      <itunes:episode>112</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/112.mp3" type="audio/mpeg"/>
+      <guid>112</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>113.哲学 《中国哲学简史》</title>
+      <itunes:episode>113</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/113.mp3" type="audio/mpeg"/>
+      <guid>113</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>114.传记 《建筑家安藤忠雄》从拳击手到一代建筑大师的传奇之路</title>
+      <itunes:episode>114</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/114.mp3" type="audio/mpeg"/>
+      <guid>114</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>115.亲子 《捕捉儿童敏感期》</title>
+      <itunes:episode>115</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/115.mp3" type="audio/mpeg"/>
+      <guid>115</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>116.成长 《关键冲突》</title>
+      <itunes:episode>116</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/116.mp3" type="audio/mpeg"/>
+      <guid>116</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>117.经管 《创新与企业家精神》</title>
+      <itunes:episode>117</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/117.mp3" type="audio/mpeg"/>
+      <guid>117</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>118.科普 《甜与权力》</title>
+      <itunes:episode>118</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/118.mp3" type="audio/mpeg"/>
+      <guid>118</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>119.生活 《怦然心动的人生整理魔法》</title>
+      <itunes:episode>119</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/119.mp3" type="audio/mpeg"/>
+      <guid>119</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>120.哲学 《存在主义是一种人道主义》</title>
+      <itunes:episode>120</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/120.mp3" type="audio/mpeg"/>
+      <guid>120</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>121.艺术 《文艺心理学》</title>
+      <itunes:episode>121</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/121.mp3" type="audio/mpeg"/>
+      <guid>121</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>122.社科 《单身社会》：光棍节的思考，为什么单身独居社会是不可阻挡的潮流</title>
+      <itunes:episode>122</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/122.mp3" type="audio/mpeg"/>
+      <guid>122</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>123.科普 《玫瑰之吻》</title>
+      <itunes:episode>123</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/123.mp3" type="audio/mpeg"/>
+      <guid>123</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>124.心理 《亲密关系》：张德芬力荐，令数十万家庭受益的人际关系宝典</title>
+      <itunes:episode>124</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/124.mp3" type="audio/mpeg"/>
+      <guid>124</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>125.心理 《如何让你爱的人爱上你》：教你恋商飙升，稳稳俘获意中人</title>
+      <itunes:episode>125</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/125.mp3" type="audio/mpeg"/>
+      <guid>125</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>126.生活  《年夜饭》：一年中最有仪式感的一顿饭，年夜饭不仅是吃顿好的这么简单</title>
+      <itunes:episode>126</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/126.mp3" type="audio/mpeg"/>
+      <guid>126</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>127.社科 《岁时》：腊八开始就是过年，从传统节日里看中国人的生活哲学</title>
+      <itunes:episode>127</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/127.mp3" type="audio/mpeg"/>
+      <guid>127</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>128.社科 《乡土中国》</title>
+      <itunes:episode>128</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/128.mp3" type="audio/mpeg"/>
+      <guid>128</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>129.成长 《如何不在网上虚度人生》</title>
+      <itunes:episode>129</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/129.mp3" type="audio/mpeg"/>
+      <guid>129</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>130.科普 《吃货的生物学修养》</title>
+      <itunes:episode>130</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/130.mp3" type="audio/mpeg"/>
+      <guid>130</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>131.亲子 《给孩子的第一本理财书》</title>
+      <itunes:episode>131</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/131.mp3" type="audio/mpeg"/>
+      <guid>131</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>132.社科 《女性贫困》</title>
+      <itunes:episode>132</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/132.mp3" type="audio/mpeg"/>
+      <guid>132</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>133.心理 《记忆错觉》</title>
+      <itunes:episode>133</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/133.mp3" type="audio/mpeg"/>
+      <guid>133</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>134.成长 《谈谈方法》</title>
+      <itunes:episode>134</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/134.mp3" type="audio/mpeg"/>
+      <guid>134</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>135.传记 《创造自然》</title>
+      <itunes:episode>135</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/135.mp3" type="audio/mpeg"/>
+      <guid>135</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>136.亲子 《给教师的建议》</title>
+      <itunes:episode>136</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/136.mp3" type="audio/mpeg"/>
+      <guid>136</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>137.成长 《关键对话》</title>
+      <itunes:episode>137</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/137.mp3" type="audio/mpeg"/>
+      <guid>137</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>138.经管 《22条商规》</title>
+      <itunes:episode>138</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/138.mp3" type="audio/mpeg"/>
+      <guid>138</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>139.传记 《再造文明之梦：胡适传》</title>
+      <itunes:episode>139</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/139.mp3" type="audio/mpeg"/>
+      <guid>139</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>140.成长 《学会提问》</title>
+      <itunes:episode>140</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/140.mp3" type="audio/mpeg"/>
+      <guid>140</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>141.科普 《茶之书》</title>
+      <itunes:episode>141</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/141.mp3" type="audio/mpeg"/>
+      <guid>141</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>142.科普 《平行宇宙》：门外汉都能读懂的物理学经典著作，了解引力波，感受宇宙之美</title>
+      <itunes:episode>142</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/142.mp3" type="audio/mpeg"/>
+      <guid>142</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>143.亲子 《卡尔·威特的教育》</title>
+      <itunes:episode>143</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/143.mp3" type="audio/mpeg"/>
+      <guid>143</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>144.成长 《启示录》</title>
+      <itunes:episode>144</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/144.mp3" type="audio/mpeg"/>
+      <guid>144</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>145.经管 《魔鬼经济学》</title>
+      <itunes:episode>145</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/145.mp3" type="audio/mpeg"/>
+      <guid>145</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>146.社科 《街角社会》</title>
+      <itunes:episode>146</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/146.mp3" type="audio/mpeg"/>
+      <guid>146</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>147.社科 《第二性(上)》</title>
+      <itunes:episode>147</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/147.mp3" type="audio/mpeg"/>
+      <guid>147</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>148.社科 《第二性(下)》</title>
+      <itunes:episode>148</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/148.mp3" type="audio/mpeg"/>
+      <guid>148</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>149.哲学 《查拉图斯特拉如是说》</title>
+      <itunes:episode>149</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/149.mp3" type="audio/mpeg"/>
+      <guid>149</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>150.科普 《赶往火星》</title>
+      <itunes:episode>150</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/150.mp3" type="audio/mpeg"/>
+      <guid>150</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>151.亲子 《这样跟孩子定规矩，孩子最不会抵触》</title>
+      <itunes:episode>151</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/151.mp3" type="audio/mpeg"/>
+      <guid>151</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>152.科普 《看不见的森林》：自然狂人为你揭秘森林里的躁动</title>
+      <itunes:episode>152</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/152.mp3" type="audio/mpeg"/>
+      <guid>152</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>153.成长 《意志力》</title>
+      <itunes:episode>153</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/153.mp3" type="audio/mpeg"/>
+      <guid>153</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>154.历史 《战争与革命中的西南联大》</title>
+      <itunes:episode>154</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/154.mp3" type="audio/mpeg"/>
+      <guid>154</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>155.社科 《品牌洗脑》</title>
+      <itunes:episode>155</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/155.mp3" type="audio/mpeg"/>
+      <guid>155</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>156.社科 《消费社会》</title>
+      <itunes:episode>156</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/156.mp3" type="audio/mpeg"/>
+      <guid>156</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>157.社科  【外版新书】《大鸡》</title>
+      <itunes:episode>157</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/157.mp3" type="audio/mpeg"/>
+      <guid>157</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>158.经管 《卓有成效的管理者》</title>
+      <itunes:episode>158</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/158.mp3" type="audio/mpeg"/>
+      <guid>158</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>159.文学 《浮生六记》：宇宙间最美丽的生活（沈复自传体文学）</title>
+      <itunes:episode>159</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/159.mp3" type="audio/mpeg"/>
+      <guid>159</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>160.亲子 《故事知道怎么办》</title>
+      <itunes:episode>160</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/160.mp3" type="audio/mpeg"/>
+      <guid>160</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>161.心理 《瞬变》</title>
+      <itunes:episode>161</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/161.mp3" type="audio/mpeg"/>
+      <guid>161</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>162.经管 《富爸爸穷爸爸》：中产阶级的烦恼，如何实现财务自由</title>
+      <itunes:episode>162</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/162.mp3" type="audio/mpeg"/>
+      <guid>162</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>163.历史 《韩非子(上)》读懂法家精髓，探寻中国古代君主专制核心</title>
+      <itunes:episode>163</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/163.mp3" type="audio/mpeg"/>
+      <guid>163</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>164.历史 《韩非子(下)》读懂法家精髓，探寻中国古代君主专制核心</title>
+      <itunes:episode>164</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/164.mp3" type="audio/mpeg"/>
+      <guid>164</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>165.成长 《影响力》：“影响力教父”经典之作，如何轻松影响别人的行为和决定</title>
+      <itunes:episode>165</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/165.mp3" type="audio/mpeg"/>
+      <guid>165</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>166.心理 《Facebook效应》</title>
+      <itunes:episode>166</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/166.mp3" type="audio/mpeg"/>
+      <guid>166</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>167.科普 《极简宇宙史》</title>
+      <itunes:episode>167</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/167.mp3" type="audio/mpeg"/>
+      <guid>167</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>168.亲子 《由内而外的教养》</title>
+      <itunes:episode>168</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/168.mp3" type="audio/mpeg"/>
+      <guid>168</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>169.哲学 《公正》：如何分配社会资源才能叫做公正？哈佛教授为你深入解读</title>
+      <itunes:episode>169</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/169.mp3" type="audio/mpeg"/>
+      <guid>169</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>170.经管 《创业维艰》</title>
+      <itunes:episode>170</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/170.mp3" type="audio/mpeg"/>
+      <guid>170</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>171.历史 《康熙(上)》美国历史学会主席史景迁的代表作</title>
+      <itunes:episode>171</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/171.mp3" type="audio/mpeg"/>
+      <guid>171</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>172.历史 《康熙(下)》带你探秘康熙多疑强硬的内心世界</title>
+      <itunes:episode>172</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/172.mp3" type="audio/mpeg"/>
+      <guid>172</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>173.社科 《爱弥儿(上)》</title>
+      <itunes:episode>173</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/173.mp3" type="audio/mpeg"/>
+      <guid>173</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>174.社科 《爱弥儿(下)》</title>
+      <itunes:episode>174</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/174.mp3" type="audio/mpeg"/>
+      <guid>174</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>175.科普 《人类的误测》</title>
+      <itunes:episode>175</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/175.mp3" type="audio/mpeg"/>
+      <guid>175</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>176.社科 《乡下人的悲歌》</title>
+      <itunes:episode>176</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/176.mp3" type="audio/mpeg"/>
+      <guid>176</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>177.科普 《怎样养猪多赚钱》</title>
+      <itunes:episode>177</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/177.mp3" type="audio/mpeg"/>
+      <guid>177</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>178.科普 《挖鼻史》</title>
+      <itunes:episode>178</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/178.mp3" type="audio/mpeg"/>
+      <guid>178</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>179.心理 《我想飞进天空》：一个自闭症儿童的自述——让你了解这些来自“星星的孩子”</title>
+      <itunes:episode>179</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/179.mp3" type="audio/mpeg"/>
+      <guid>179</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>180.历史 《银元时代生活史》</title>
+      <itunes:episode>180</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/180.mp3" type="audio/mpeg"/>
+      <guid>180</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>181.社科 《直视骄阳》</title>
+      <itunes:episode>181</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/181.mp3" type="audio/mpeg"/>
+      <guid>181</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>182.社科 《最好的告别》关于衰老与死亡，你必须要知道的常识</title>
+      <itunes:episode>182</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/182.mp3" type="audio/mpeg"/>
+      <guid>182</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>183.成长 《高效能人士的七个习惯》：世界500强经典培训教材，全面提升个人际幸福感</title>
+      <itunes:episode>183</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/183.mp3" type="audio/mpeg"/>
+      <guid>183</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>184.成长 《杰出青少年的七个习惯》</title>
+      <itunes:episode>184</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/184.mp3" type="audio/mpeg"/>
+      <guid>184</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>185.科普 《美味欺诈》</title>
+      <itunes:episode>185</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/185.mp3" type="audio/mpeg"/>
+      <guid>185</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>186.成长 《深度工作》</title>
+      <itunes:episode>186</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/186.mp3" type="audio/mpeg"/>
+      <guid>186</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>187.经管 《穷查理宝典》</title>
+      <itunes:episode>187</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/187.mp3" type="audio/mpeg"/>
+      <guid>187</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>188.文学 《元素周期表》</title>
+      <itunes:episode>188</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/188.mp3" type="audio/mpeg"/>
+      <guid>188</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>189.科普 《自私的基因》：20世纪百大经典之一，英国皇家科学院院士带你破解基因阴谋论</title>
+      <itunes:episode>189</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/189.mp3" type="audio/mpeg"/>
+      <guid>189</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>190.经管 《区块链：从数字货币到信用社会》</title>
+      <itunes:episode>190</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/190.mp3" type="audio/mpeg"/>
+      <guid>190</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>191.心理 《日常生活中的自我呈现》：人生如戏，全靠演技</title>
+      <itunes:episode>191</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/191.mp3" type="audio/mpeg"/>
+      <guid>191</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>192.文学 《刺杀骑士团长》：村上春树最新力作</title>
+      <itunes:episode>192</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/192.mp3" type="audio/mpeg"/>
+      <guid>192</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>193.传记 《梵高传》：真实还原天才画家的谜之人生</title>
+      <itunes:episode>193</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/193.mp3" type="audio/mpeg"/>
+      <guid>193</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>194.科普 《费马大定理》</title>
+      <itunes:episode>194</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/194.mp3" type="audio/mpeg"/>
+      <guid>194</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>195.亲子 《好妈妈胜过好老师》</title>
+      <itunes:episode>195</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/195.mp3" type="audio/mpeg"/>
+      <guid>195</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>196.科普 《众病之王：癌症传》人类四千年抗癌斗争史</title>
+      <itunes:episode>196</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/196.mp3" type="audio/mpeg"/>
+      <guid>196</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>197.科普 《癌症·真相》：一线科学家深度解读癌症，用真相终结恐慌</title>
+      <itunes:episode>197</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/197.mp3" type="audio/mpeg"/>
+      <guid>197</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>198.成长 《转行》</title>
+      <itunes:episode>198</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/198.mp3" type="audio/mpeg"/>
+      <guid>198</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>199.经管《货币的非国家化》</title>
+      <itunes:episode>199</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/199.mp3" type="audio/mpeg"/>
+      <guid>199</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>200.经管 《聪明的投资者》</title>
+      <itunes:episode>200</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/200.mp3" type="audio/mpeg"/>
+      <guid>200</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>201.社科 《新教伦理与资本主义精神》</title>
+      <itunes:episode>201</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/201.mp3" type="audio/mpeg"/>
+      <guid>201</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>202.成长 【外版新书】《文化密码》</title>
+      <itunes:episode>202</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/202.mp3" type="audio/mpeg"/>
+      <guid>202</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>203.经管 《区块链：技术驱动金融》</title>
+      <itunes:episode>203</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/203.mp3" type="audio/mpeg"/>
+      <guid>203</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>204.哲学 《哲学的故事(上)》</title>
+      <itunes:episode>204</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/204.mp3" type="audio/mpeg"/>
+      <guid>204</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>205.哲学 《哲学的故事(下)》</title>
+      <itunes:episode>205</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/205.mp3" type="audio/mpeg"/>
+      <guid>205</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>206.科普 《无人驾驶》</title>
+      <itunes:episode>206</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/206.mp3" type="audio/mpeg"/>
+      <guid>206</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>207.科普《大灭绝时代》</title>
+      <itunes:episode>207</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/207.mp3" type="audio/mpeg"/>
+      <guid>207</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>208.成长 《书读完了》</title>
+      <itunes:episode>208</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/208.mp3" type="audio/mpeg"/>
+      <guid>208</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>209.成长 《如何阅读一本书》</title>
+      <itunes:episode>209</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/209.mp3" type="audio/mpeg"/>
+      <guid>209</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>210.社科 《超级版图》</title>
+      <itunes:episode>210</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/210.mp3" type="audio/mpeg"/>
+      <guid>210</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>211.历史 《枪炮、病菌与钢铁》</title>
+      <itunes:episode>211</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/211.mp3" type="audio/mpeg"/>
+      <guid>211</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>212.成长 《思考，快与慢》：诺贝尔奖得主带你了解大脑运行的基本原理，帮你做明智选择</title>
+      <itunes:episode>212</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/212.mp3" type="audio/mpeg"/>
+      <guid>212</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>213.哲学 《逃避自由》</title>
+      <itunes:episode>213</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/213.mp3" type="audio/mpeg"/>
+      <guid>213</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>214.传记 《杜尚传》</title>
+      <itunes:episode>214</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/214.mp3" type="audio/mpeg"/>
+      <guid>214</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>215.科普 《上帝掷骰子吗》</title>
+      <itunes:episode>215</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/215.mp3" type="audio/mpeg"/>
+      <guid>215</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>216.经管 《失控》</title>
+      <itunes:episode>216</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/216.mp3" type="audio/mpeg"/>
+      <guid>216</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>217.成长 《番茄工作法图解》</title>
+      <itunes:episode>217</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/217.mp3" type="audio/mpeg"/>
+      <guid>217</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>218.社科 《论人类不平等的起源和基础》</title>
+      <itunes:episode>218</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/218.mp3" type="audio/mpeg"/>
+      <guid>218</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>219.社科 《汤姆斯河》：一个农业小镇变成癌症村的故事</title>
+      <itunes:episode>219</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/219.mp3" type="audio/mpeg"/>
+      <guid>219</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>220.科普 《数学犹聊天》</title>
+      <itunes:episode>220</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/220.mp3" type="audio/mpeg"/>
+      <guid>220</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>221.成长 《学习之道》</title>
+      <itunes:episode>221</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/221.mp3" type="audio/mpeg"/>
+      <guid>221</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>222.经管 《刷新》</title>
+      <itunes:episode>222</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/222.mp3" type="audio/mpeg"/>
+      <guid>222</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>223.成长 《人性的弱点》</title>
+      <itunes:episode>223</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/223.mp3" type="audio/mpeg"/>
+      <guid>223</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>224.亲子 《母爱的羁绊》</title>
+      <itunes:episode>224</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/224.mp3" type="audio/mpeg"/>
+      <guid>224</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>225.亲子 《做孩子最好的英语学习规划师》</title>
+      <itunes:episode>225</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/225.mp3" type="audio/mpeg"/>
+      <guid>225</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>226.经管 《一分钟经理人》</title>
+      <itunes:episode>226</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/226.mp3" type="audio/mpeg"/>
+      <guid>226</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>227.亲子 《养育女孩》</title>
+      <itunes:episode>227</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/227.mp3" type="audio/mpeg"/>
+      <guid>227</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>228.社科 《裸猿》</title>
+      <itunes:episode>228</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/228.mp3" type="audio/mpeg"/>
+      <guid>228</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>229.社科 《娱乐至死》</title>
+      <itunes:episode>229</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/229.mp3" type="audio/mpeg"/>
+      <guid>229</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>230.亲子 《养育男孩》</title>
+      <itunes:episode>230</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/230.mp3" type="audio/mpeg"/>
+      <guid>230</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>231.亲子 《早期教育与天才》</title>
+      <itunes:episode>231</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/231.mp3" type="audio/mpeg"/>
+      <guid>231</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>232.艺术 《谈美》</title>
+      <itunes:episode>232</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/232.mp3" type="audio/mpeg"/>
+      <guid>232</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>233.亲子 《带着大宝养二宝》</title>
+      <itunes:episode>233</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/233.mp3" type="audio/mpeg"/>
+      <guid>233</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>234.科普 《DNA生命的秘密》</title>
+      <itunes:episode>234</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/234.mp3" type="audio/mpeg"/>
+      <guid>234</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>235.亲子 《父母的觉醒》</title>
+      <itunes:episode>235</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/235.mp3" type="audio/mpeg"/>
+      <guid>235</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>236.亲子 《怀孕40周看这本就够了》</title>
+      <itunes:episode>236</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/236.mp3" type="audio/mpeg"/>
+      <guid>236</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>237.心理 《魅力》：如何让别人喜欢你、欣赏你、追随你？</title>
+      <itunes:episode>237</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/237.mp3" type="audio/mpeg"/>
+      <guid>237</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>238.经管 《长尾理论2.0》</title>
+      <itunes:episode>238</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/238.mp3" type="audio/mpeg"/>
+      <guid>238</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>239.历史 《哈佛中国史·秦与汉》</title>
+      <itunes:episode>239</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/239.mp3" type="audio/mpeg"/>
+      <guid>239</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>240.科普 《蚂蚁的故事》：一个社会的诞生</title>
+      <itunes:episode>240</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/240.mp3" type="audio/mpeg"/>
+      <guid>240</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>241.历史 《东方学》</title>
+      <itunes:episode>241</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/241.mp3" type="audio/mpeg"/>
+      <guid>241</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>242.哲学 《禅与摩托车维修艺术》</title>
+      <itunes:episode>242</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/242.mp3" type="audio/mpeg"/>
+      <guid>242</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>243.传记 《从文自传》：文学才子的半生回忆，在残酷中寻找人性之美</title>
+      <itunes:episode>243</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/243.mp3" type="audio/mpeg"/>
+      <guid>243</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>244.科普 《了不起的地下工作者》</title>
+      <itunes:episode>244</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/244.mp3" type="audio/mpeg"/>
+      <guid>244</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>245.文学 《到灯塔去》</title>
+      <itunes:episode>245</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/245.mp3" type="audio/mpeg"/>
+      <guid>245</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>246.艺术《剑桥艺术史绘画观赏》</title>
+      <itunes:episode>246</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/246.mp3" type="audio/mpeg"/>
+      <guid>246</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>247.成长 《微习惯》</title>
+      <itunes:episode>247</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/247.mp3" type="audio/mpeg"/>
+      <guid>247</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>248.成长 《赋能》</title>
+      <itunes:episode>248</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/248.mp3" type="audio/mpeg"/>
+      <guid>248</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>249.文学 《九三年》</title>
+      <itunes:episode>249</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/249.mp3" type="audio/mpeg"/>
+      <guid>249</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>250.历史 《统一与分裂》</title>
+      <itunes:episode>250</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/250.mp3" type="audio/mpeg"/>
+      <guid>250</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>251.心理 《冷暴力》：躲开亲密关系中的无形杀手</title>
+      <itunes:episode>251</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/251.mp3" type="audio/mpeg"/>
+      <guid>251</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>252.文学《远山淡影》</title>
+      <itunes:episode>252</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/252.mp3" type="audio/mpeg"/>
+      <guid>252</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>253.文学 【粤语版】《远山淡影》</title>
+      <itunes:episode>253</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/253.mp3" type="audio/mpeg"/>
+      <guid>253</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>254.生活 《极简》</title>
+      <itunes:episode>254</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/254.mp3" type="audio/mpeg"/>
+      <guid>254</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>255.科普 《物理是什么》</title>
+      <itunes:episode>255</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/255.mp3" type="audio/mpeg"/>
+      <guid>255</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>256.心理 《认识自己，接纳自己》：积极心理学之父教你如何获得幸福人生</title>
+      <itunes:episode>256</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/256.mp3" type="audio/mpeg"/>
+      <guid>256</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>257.经管 《10人以下小团队管理手册》</title>
+      <itunes:episode>257</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/257.mp3" type="audio/mpeg"/>
+      <guid>257</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>258.历史 《商君书》</title>
+      <itunes:episode>258</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/258.mp3" type="audio/mpeg"/>
+      <guid>258</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>259.心理 《语言本能》</title>
+      <itunes:episode>259</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/259.mp3" type="audio/mpeg"/>
+      <guid>259</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>260.亲子 《儿童护牙宝典》</title>
+      <itunes:episode>260</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/260.mp3" type="audio/mpeg"/>
+      <guid>260</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>261.文学 《格列佛游记》</title>
+      <itunes:episode>261</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/261.mp3" type="audio/mpeg"/>
+      <guid>261</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>262.生活 《五味》</title>
+      <itunes:episode>262</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/262.mp3" type="audio/mpeg"/>
+      <guid>262</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>263.心理《有吸收力的心灵》</title>
+      <itunes:episode>263</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/263.mp3" type="audio/mpeg"/>
+      <guid>263</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>264.心理 《当下的力量》：摆脱焦虑、抑郁等负面情绪，学会开启一种新的生活方式</title>
+      <itunes:episode>264</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/264.mp3" type="audio/mpeg"/>
+      <guid>264</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>265.经管 《阿米巴经营》</title>
+      <itunes:episode>265</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/265.mp3" type="audio/mpeg"/>
+      <guid>265</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>266.社科 《文明的进程》</title>
+      <itunes:episode>266</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/266.mp3" type="audio/mpeg"/>
+      <guid>266</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>267.社科 《我们的孩子》</title>
+      <itunes:episode>267</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/267.mp3" type="audio/mpeg"/>
+      <guid>267</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>268.文学 《且听风吟》</title>
+      <itunes:episode>268</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/268.mp3" type="audio/mpeg"/>
+      <guid>268</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>269.科普 《睡眠革命》</title>
+      <itunes:episode>269</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/269.mp3" type="audio/mpeg"/>
+      <guid>269</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>270.科普 《复杂》</title>
+      <itunes:episode>270</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/270.mp3" type="audio/mpeg"/>
+      <guid>270</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>271.成长 《重塑幸福》</title>
+      <itunes:episode>271</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/271.mp3" type="audio/mpeg"/>
+      <guid>271</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>272.经管 《销售圣经》</title>
+      <itunes:episode>272</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/272.mp3" type="audio/mpeg"/>
+      <guid>272</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>273.历史 《明成祖传》</title>
+      <itunes:episode>273</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/273.mp3" type="audio/mpeg"/>
+      <guid>273</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>274.社科 《美国大城市的死与生》</title>
+      <itunes:episode>274</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/274.mp3" type="audio/mpeg"/>
+      <guid>274</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>275.文学 《第二十二条军规》</title>
+      <itunes:episode>275</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/275.mp3" type="audio/mpeg"/>
+      <guid>275</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>276.艺术 《认识建筑》</title>
+      <itunes:episode>276</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/276.mp3" type="audio/mpeg"/>
+      <guid>276</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>277.亲子 《爱的教育》</title>
+      <itunes:episode>277</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/277.mp3" type="audio/mpeg"/>
+      <guid>277</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>278.亲子 《教养的迷思》</title>
+      <itunes:episode>278</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/278.mp3" type="audio/mpeg"/>
+      <guid>278</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>279.成长《细节（上）》“影响力”教父教你用细节改变他人行为</title>
+      <itunes:episode>279</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/279.mp3" type="audio/mpeg"/>
+      <guid>279</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>280.成长《细节（下）》“影响力”教父教你用细节改变他人行为</title>
+      <itunes:episode>280</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/280.mp3" type="audio/mpeg"/>
+      <guid>280</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>281.历史 《中国古代文化常识（上）》：穿越爱好者的古代生存指南</title>
+      <itunes:episode>281</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/281.mp3" type="audio/mpeg"/>
+      <guid>281</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>282.历史 《中国古代文化常识（下）》穿越爱好者的古代生存指南</title>
+      <itunes:episode>282</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/282.mp3" type="audio/mpeg"/>
+      <guid>282</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>283.经管 《行动的勇气（上）》美联储前主席亲述“次贷危机”救市内幕</title>
+      <itunes:episode>283</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/283.mp3" type="audio/mpeg"/>
+      <guid>283</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>284.经管 《行动的勇气（下）》美联储前主席亲述“次贷危机”救市内幕</title>
+      <itunes:episode>284</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/284.mp3" type="audio/mpeg"/>
+      <guid>284</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>285.历史 《饥饿的盛世（上）》：乾隆盛世是如何走向溃烂的？</title>
+      <itunes:episode>285</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/285.mp3" type="audio/mpeg"/>
+      <guid>285</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>286.历史 《饥饿的盛世（下）》：乾隆盛世是如何走向溃烂的？</title>
+      <itunes:episode>286</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/286.mp3" type="audio/mpeg"/>
+      <guid>286</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>287.科普 《阿司匹林传奇（上）》：日用良药的百年发展史</title>
+      <itunes:episode>287</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/287.mp3" type="audio/mpeg"/>
+      <guid>287</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>288.科普 《阿司匹林传奇（下）》：日用良药的百年发展史</title>
+      <itunes:episode>288</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/288.mp3" type="audio/mpeg"/>
+      <guid>288</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>289.社科 《天空的另一半（上）》</title>
+      <itunes:episode>289</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/289.mp3" type="audio/mpeg"/>
+      <guid>289</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>290.社科 《天空的另一半（下）》</title>
+      <itunes:episode>290</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/290.mp3" type="audio/mpeg"/>
+      <guid>290</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>291.传记 《维特根斯坦传（上）》天才哲学家的一生，无敌是多么多么寂寞</title>
+      <itunes:episode>291</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/291.mp3" type="audio/mpeg"/>
+      <guid>291</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>292.传记 《维特根斯坦传（下）》天才哲学家的一生，无敌是多么多么寂寞</title>
+      <itunes:episode>292</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/292.mp3" type="audio/mpeg"/>
+      <guid>292</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>293.科普 《为食物辩护》</title>
+      <itunes:episode>293</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/293.mp3" type="audio/mpeg"/>
+      <guid>293</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>294.科普 《锈蚀》</title>
+      <itunes:episode>294</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/294.mp3" type="audio/mpeg"/>
+      <guid>294</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>295.亲子 《让孩子的大脑自由(上)》美国权威脑神经科学家提供培养孩子最科学的实操手册</title>
+      <itunes:episode>295</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/295.mp3" type="audio/mpeg"/>
+      <guid>295</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>296.亲子 《让孩子的大脑自由(下)》美国权威脑神经科学家提供培养孩子最科学的实操手册</title>
+      <itunes:episode>296</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/296.mp3" type="audio/mpeg"/>
+      <guid>296</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>297.成长 《高效演讲(上)》如何把正确的话漂亮地说，一开口就打动人心</title>
+      <itunes:episode>297</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/297.mp3" type="audio/mpeg"/>
+      <guid>297</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>298.成长 《高效演讲(下)》美国总统的私房演讲训练教程</title>
+      <itunes:episode>298</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/298.mp3" type="audio/mpeg"/>
+      <guid>298</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>299.经管  【外版新书】《大数据时代资本主义的重塑》</title>
+      <itunes:episode>299</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/299.mp3" type="audio/mpeg"/>
+      <guid>299</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>300.经管 《腾讯传（01）》：从腾讯崛起看中国互联网公司进化史</title>
+      <itunes:episode>300</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/300.mp3" type="audio/mpeg"/>
+      <guid>300</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>301.经管 《腾讯传（02）》：从腾讯崛起看中国互联网公司进化史</title>
+      <itunes:episode>301</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/301.mp3" type="audio/mpeg"/>
+      <guid>301</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>302.经管 《腾讯传（03）》：从腾讯崛起看中国互联网公司进化史</title>
+      <itunes:episode>302</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/302.mp3" type="audio/mpeg"/>
+      <guid>302</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>303.历史 《留美幼童（上）》：中国最早的官派留学生</title>
+      <itunes:episode>303</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/303.mp3" type="audio/mpeg"/>
+      <guid>303</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>304.历史 《留美幼童（下）》：中国最早的官派留学生</title>
+      <itunes:episode>304</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/304.mp3" type="audio/mpeg"/>
+      <guid>304</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>305.社科 《无缘社会（上）》独自一人将成为很多人的未来吗？</title>
+      <itunes:episode>305</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/305.mp3" type="audio/mpeg"/>
+      <guid>305</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>306.社科 《无缘社会（下）》独自一人将成为很多人的未来吗？</title>
+      <itunes:episode>306</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/306.mp3" type="audio/mpeg"/>
+      <guid>306</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>307.文学 《追忆似水年华（上）》意识流小说开山之作</title>
+      <itunes:episode>307</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/307.mp3" type="audio/mpeg"/>
+      <guid>307</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>308.文学 《追忆似水年华（下）》意识流小说开山之作</title>
+      <itunes:episode>308</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/308.mp3" type="audio/mpeg"/>
+      <guid>308</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>309.社科 《热锅上的家庭（上）》：为什么我们总是肆无忌惮地对最亲的人恶言相向？</title>
+      <itunes:episode>309</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/309.mp3" type="audio/mpeg"/>
+      <guid>309</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>310.社科 《热锅上的家庭（下）》：热销20年的家庭问题急救手册，教你解决家庭危机</title>
+      <itunes:episode>310</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/310.mp3" type="audio/mpeg"/>
+      <guid>310</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>311.科普 《从一到无穷大（上）》：从四维空间到时空弯曲，用数学解答全宇宙</title>
+      <itunes:episode>311</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/311.mp3" type="audio/mpeg"/>
+      <guid>311</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>312.科普 《从一到无穷大（下）》：从四维空间到时空弯曲，用数学解答全宇宙</title>
+      <itunes:episode>312</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/312.mp3" type="audio/mpeg"/>
+      <guid>312</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>313.成长 《理性的抉择（上）》：写给女性的决策指南</title>
+      <itunes:episode>313</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/313.mp3" type="audio/mpeg"/>
+      <guid>313</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>314.成长 《理性的抉择（下）》：写给女性的决策指南</title>
+      <itunes:episode>314</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/314.mp3" type="audio/mpeg"/>
+      <guid>314</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>315.科普 《足球经济学：为什么英格兰总是输？》</title>
+      <itunes:episode>315</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/315.mp3" type="audio/mpeg"/>
+      <guid>315</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>316.科普 《智能时代（上）》（人工智能在未来可以做什么？）</title>
+      <itunes:episode>316</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/316.mp3" type="audio/mpeg"/>
+      <guid>316</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>317.科普 《智能时代（下）》（人工智能在未来可以做什么？）</title>
+      <itunes:episode>317</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/317.mp3" type="audio/mpeg"/>
+      <guid>317</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>318.传记 《史蒂夫·乔布斯传(一)》：乔帮主的成长轨迹</title>
+      <itunes:episode>318</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/318.mp3" type="audio/mpeg"/>
+      <guid>318</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>319.传记 《史蒂夫·乔布斯传二)》：时代大潮推动下，展露头角</title>
+      <itunes:episode>319</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/319.mp3" type="audio/mpeg"/>
+      <guid>319</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>320.传记 《史蒂夫·乔布斯传(三)》：再回苹果，重临巅峰</title>
+      <itunes:episode>320</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/320.mp3" type="audio/mpeg"/>
+      <guid>320</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>321.传记 《史蒂夫·乔布斯传(四)》：iPhone、iPad出世，献给世界的礼物</title>
+      <itunes:episode>321</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/321.mp3" type="audio/mpeg"/>
+      <guid>321</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>322.历史 《马丁·盖尔归来（上）》一件五百年前冒名顶替的奇案</title>
+      <itunes:episode>322</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/322.mp3" type="audio/mpeg"/>
+      <guid>322</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>323.历史 《马丁·盖尔归来（下）》一件五百年前冒名顶替的奇案</title>
+      <itunes:episode>323</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/323.mp3" type="audio/mpeg"/>
+      <guid>323</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>324.历史 《论历史上的英雄、英雄崇拜和英雄业绩（上）》</title>
+      <itunes:episode>324</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/324.mp3" type="audio/mpeg"/>
+      <guid>324</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>325.历史 《论历史上的英雄、英雄崇拜和英雄业绩（下）》（托马斯·卡莱尔）</title>
+      <itunes:episode>325</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/325.mp3" type="audio/mpeg"/>
+      <guid>325</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>326.成长 《TED演讲的秘密（上）》：如何在18分钟内传递出好想法？</title>
+      <itunes:episode>326</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/326.mp3" type="audio/mpeg"/>
+      <guid>326</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>327.成长 《TED演讲的秘密（下）》：如何在18分钟内传递出好想法？</title>
+      <itunes:episode>327</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/327.mp3" type="audio/mpeg"/>
+      <guid>327</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>328.文学 《过于喧嚣的孤独（上）》：当代捷克最受欢迎的作家赫拉巴尔</title>
+      <itunes:episode>328</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/328.mp3" type="audio/mpeg"/>
+      <guid>328</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>329.文学 《过于喧嚣的孤独（下）》：当代捷克最受欢迎的作家赫拉巴尔</title>
+      <itunes:episode>329</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/329.mp3" type="audio/mpeg"/>
+      <guid>329</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>330.生活 《别说你会吃日料（上）》（日料达人的美食小心得）</title>
+      <itunes:episode>330</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/330.mp3" type="audio/mpeg"/>
+      <guid>330</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>331.生活 《别说你会吃日料（下）》（日料达人的美食小心得）</title>
+      <itunes:episode>331</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/331.mp3" type="audio/mpeg"/>
+      <guid>331</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>332.亲子 《会做饭的孩子走到哪里都能活下去(上)》千惠一家三口对抗病魔的成长足迹</title>
+      <itunes:episode>332</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/332.mp3" type="audio/mpeg"/>
+      <guid>332</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>333.亲子 《会做饭的孩子走到哪里都能活下去(下)》：千惠一家三口对抗病魔的感人故事</title>
+      <itunes:episode>333</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/333.mp3" type="audio/mpeg"/>
+      <guid>333</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>334.科普 《魔鬼出没的世界（上）》：科学与非科学的边界，到底在哪里？</title>
+      <itunes:episode>334</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/334.mp3" type="audio/mpeg"/>
+      <guid>334</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>335.科普 《魔鬼出没的世界（下）》：科学与非科学的边界，到底在哪里？</title>
+      <itunes:episode>335</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/335.mp3" type="audio/mpeg"/>
+      <guid>335</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>336.成长 《控制焦虑(上)》：心理学大师抗焦虑经典</title>
+      <itunes:episode>336</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/336.mp3" type="audio/mpeg"/>
+      <guid>336</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>337.成长 《控制焦虑(下)》：心理学大师抗焦虑经典</title>
+      <itunes:episode>337</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/337.mp3" type="audio/mpeg"/>
+      <guid>337</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>338.成长 《如何在大学里脱颖而出（上）》一次获得一流大学、顶尖学生的成功经验</title>
+      <itunes:episode>338</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/338.mp3" type="audio/mpeg"/>
+      <guid>338</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>339.成长 《如何在大学里脱颖而出（下）》一次获得一流大学、顶尖学生的成功经验</title>
+      <itunes:episode>339</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/339.mp3" type="audio/mpeg"/>
+      <guid>339</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>340.成长  《优势谈判（上）》（罗杰·道森 职场谈判讲究双赢）</title>
+      <itunes:episode>340</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/340.mp3" type="audio/mpeg"/>
+      <guid>340</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>341.成长  《优势谈判（下）》（罗杰·道森 职场谈判进阶教学）</title>
+      <itunes:episode>341</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/341.mp3" type="audio/mpeg"/>
+      <guid>341</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>342.传记 《希-特 勒传(上)01》：一条乞丐到元首的传奇之路</title>
+      <itunes:episode>342</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/342.mp3" type="audio/mpeg"/>
+      <guid>342</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>343.传记 《希-特 勒传(下)01》一条乞丐到元首的传奇之路</title>
+      <itunes:episode>343</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/343.mp3" type="audio/mpeg"/>
+      <guid>343</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>344.传记 《希-特 勒传(上)02》：一条乞丐到元首的传奇之路</title>
+      <itunes:episode>344</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/344.mp3" type="audio/mpeg"/>
+      <guid>344</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>345.传记 《希-特 勒传(下)02》一条乞丐到元首的传奇之路</title>
+      <itunes:episode>345</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/345.mp3" type="audio/mpeg"/>
+      <guid>345</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>346.心理 《人性中的善良天使（上）》哈佛心理大牛为你解析为什么社会的暴力指数在下降</title>
+      <itunes:episode>346</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/346.mp3" type="audio/mpeg"/>
+      <guid>346</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>347.心理 《人性中的善良天使（下）》哈佛心理大牛为你解析为什么社会的暴力指数在下降</title>
+      <itunes:episode>347</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/347.mp3" type="audio/mpeg"/>
+      <guid>347</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>348.艺术  李泽厚代表作《美的历程（上）》：美是看不见的竞争力</title>
+      <itunes:episode>348</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/348.mp3" type="audio/mpeg"/>
+      <guid>348</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>349.艺术 《美的历程（下）》：美是看不见的竞争力</title>
+      <itunes:episode>349</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/349.mp3" type="audio/mpeg"/>
+      <guid>349</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>350.艺术  ♪《鲍勃·迪伦：诗人之歌(上)》诗人？歌手？精神领袖？</title>
+      <itunes:episode>350</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/350.mp3" type="audio/mpeg"/>
+      <guid>350</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>351.艺术  ♪《鲍勃·迪伦：诗人之歌(下)》最富争议的诺贝尔奖获得者的传奇一生</title>
+      <itunes:episode>351</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/351.mp3" type="audio/mpeg"/>
+      <guid>351</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>352.科普 《鸟的感官（上）》最佳鸟书，让你体会到做一只鸟是怎样的感觉</title>
+      <itunes:episode>352</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/352.mp3" type="audio/mpeg"/>
+      <guid>352</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>353.科普 《鸟的感官（下）》最佳鸟书，让你体会到做一只鸟是怎样的感觉</title>
+      <itunes:episode>353</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/353.mp3" type="audio/mpeg"/>
+      <guid>353</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>354.科普 《数学（上）》：离开高数考试，数学竟然如此优雅！</title>
+      <itunes:episode>354</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/354.mp3" type="audio/mpeg"/>
+      <guid>354</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>355.科普 《数学（下）》：离开高数考试，数学竟然如此优雅！</title>
+      <itunes:episode>355</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/355.mp3" type="audio/mpeg"/>
+      <guid>355</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>356.成长 《活出最乐观的自己(上)》如何才能摆脱焦虑和抑郁</title>
+      <itunes:episode>356</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/356.mp3" type="audio/mpeg"/>
+      <guid>356</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>357.成长 《活出最乐观的自己(下)》：如何才能摆脱焦虑和抑郁</title>
+      <itunes:episode>357</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/357.mp3" type="audio/mpeg"/>
+      <guid>357</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>358.科普【外版新书】《太空大亨(上)》马斯克、贝佐斯的私人太空探索之路</title>
+      <itunes:episode>358</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/358.mp3" type="audio/mpeg"/>
+      <guid>358</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>359.科普【外版新书】《太空大亨(下)》超级富豪们如何争夺宇宙？</title>
+      <itunes:episode>359</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/359.mp3" type="audio/mpeg"/>
+      <guid>359</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>360.科普 《数据之巅（上）》（大数据如何重构人类生活？）</title>
+      <itunes:episode>360</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/360.mp3" type="audio/mpeg"/>
+      <guid>360</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>361.科普 《数据之巅（下）》（大数据如何重构人类生活？）</title>
+      <itunes:episode>361</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/361.mp3" type="audio/mpeg"/>
+      <guid>361</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>362.历史 《大外交（上）》：基辛格外交经典著作</title>
+      <itunes:episode>362</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/362.mp3" type="audio/mpeg"/>
+      <guid>362</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>363.历史 《大外交（下）》：基辛格外交经典著作</title>
+      <itunes:episode>363</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/363.mp3" type="audio/mpeg"/>
+      <guid>363</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>364.历史 《秦汉帝国(上)》：帝国四百年发展的域外视角</title>
+      <itunes:episode>364</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/364.mp3" type="audio/mpeg"/>
+      <guid>364</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>365.历史 《秦汉帝国(下)》：帝国四百年发展的域外视角</title>
+      <itunes:episode>365</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/365.mp3" type="audio/mpeg"/>
+      <guid>365</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>366.生活 【粤语版】《怦然心动的人生整理魔法》</title>
+      <itunes:episode>366</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/366.mp3" type="audio/mpeg"/>
+      <guid>366</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>367.社科 《狂热分子（上）》：群众运动如何让人迷失了自己？</title>
+      <itunes:episode>367</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/367.mp3" type="audio/mpeg"/>
+      <guid>367</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>368.社科 《狂热分子（下）》：群众运动如何让人迷失了自己？</title>
+      <itunes:episode>368</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/368.mp3" type="audio/mpeg"/>
+      <guid>368</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>369.社科 《尼各马可伦理学（上）》（亚里士多德探讨伦理学的经典著作）</title>
+      <itunes:episode>369</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/369.mp3" type="audio/mpeg"/>
+      <guid>369</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>370.社科 《尼各马可伦理学（下）》（亚里士多德探讨伦理学的经典著作）</title>
+      <itunes:episode>370</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/370.mp3" type="audio/mpeg"/>
+      <guid>370</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>371.文学《永别了，武器（上）》：海明威揭开“迷惘一代”的真面目</title>
+      <itunes:episode>371</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/371.mp3" type="audio/mpeg"/>
+      <guid>371</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>372.文学《永别了，武器（下）》：海明威揭开“迷惘一代”的真面目</title>
+      <itunes:episode>372</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/372.mp3" type="audio/mpeg"/>
+      <guid>372</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>373.科普 《人体的故事（上）》进化、健康与疾病</title>
+      <itunes:episode>373</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/373.mp3" type="audio/mpeg"/>
+      <guid>373</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>374.科普 《人体的故事（下）》进化、健康与疾病</title>
+      <itunes:episode>374</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/374.mp3" type="audio/mpeg"/>
+      <guid>374</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>375.科普 《羽毛（上）》（小小羽毛有大大用处）</title>
+      <itunes:episode>375</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/375.mp3" type="audio/mpeg"/>
+      <guid>375</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>376.科普 《羽毛（下）》（小小羽毛有大大用处）</title>
+      <itunes:episode>376</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/376.mp3" type="audio/mpeg"/>
+      <guid>376</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>377.文学 【少儿版】《狼王梦》</title>
+      <itunes:episode>377</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/377.mp3" type="audio/mpeg"/>
+      <guid>377</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>378.成长  【重庆话版】 《意志力》</title>
+      <itunes:episode>378</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/378.mp3" type="audio/mpeg"/>
+      <guid>378</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>379.成长 《心流（上）》不容错过的幸福秘方，“心流之父”教你享受当下每一刻</title>
+      <itunes:episode>379</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/379.mp3" type="audio/mpeg"/>
+      <guid>379</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>380.成长 《心流（下）》不容错过的幸福秘方，“心流之父”教你享受当下每一刻</title>
+      <itunes:episode>380</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/380.mp3" type="audio/mpeg"/>
+      <guid>380</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>381.科普 《消失的微生物（上）》（从救星到双刃剑，抗生素的转变史）</title>
+      <itunes:episode>381</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/381.mp3" type="audio/mpeg"/>
+      <guid>381</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>382.科普 《消失的微生物（下）》（从救星到双刃剑，抗生素的转变史）</title>
+      <itunes:episode>382</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/382.mp3" type="audio/mpeg"/>
+      <guid>382</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>383.科普 《致命伴侣：在细菌的世界里求生》</title>
+      <itunes:episode>383</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/383.mp3" type="audio/mpeg"/>
+      <guid>383</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>384.经管 《解读基金（上）》疯传500万人次的基金投资锦囊</title>
+      <itunes:episode>384</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/384.mp3" type="audio/mpeg"/>
+      <guid>384</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>385.经管 《解读基金（下）》疯传500万人次的基金投资锦囊</title>
+      <itunes:episode>385</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/385.mp3" type="audio/mpeg"/>
+      <guid>385</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>386.经管 《投资中最简单的事（上）》（千亿级基金经理的投资之道）</title>
+      <itunes:episode>386</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/386.mp3" type="audio/mpeg"/>
+      <guid>386</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>387.经管 《投资中最简单的事（下）》（千亿级基金经理的投资之道）</title>
+      <itunes:episode>387</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/387.mp3" type="audio/mpeg"/>
+      <guid>387</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>388.历史 《大门口的陌生人(上)》：闯入广州的外国人，如何改变了中国近代史？</title>
+      <itunes:episode>388</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/388.mp3" type="audio/mpeg"/>
+      <guid>388</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>389.历史 《大门口的陌生人(下)》：闯入广州的外国人，如何改变了中国近代史？</title>
+      <itunes:episode>389</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/389.mp3" type="audio/mpeg"/>
+      <guid>389</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>390.社科 《动物解放（上）》（生命伦理学的世界级经典）</title>
+      <itunes:episode>390</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/390.mp3" type="audio/mpeg"/>
+      <guid>390</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>391.社科 《动物解放（下）》（生命伦理学的世界级经典）</title>
+      <itunes:episode>391</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/391.mp3" type="audio/mpeg"/>
+      <guid>391</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>392.文学 《蝇王（上）》（诺贝尔文学奖获得者威廉·戈尔丁的巅峰之作）</title>
+      <itunes:episode>392</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/392.mp3" type="audio/mpeg"/>
+      <guid>392</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>393.文学 《蝇王（下）》（诺贝尔文学奖获得者威廉·戈尔丁的巅峰之作）</title>
+      <itunes:episode>393</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/393.mp3" type="audio/mpeg"/>
+      <guid>393</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>394.生活 《万物有灵且美（上）》：人与动物和谐共生的治愈系经典</title>
+      <itunes:episode>394</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/394.mp3" type="audio/mpeg"/>
+      <guid>394</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>395.生活 《万物有灵且美（下）》：人与动物和谐共生的治愈系经典</title>
+      <itunes:episode>395</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/395.mp3" type="audio/mpeg"/>
+      <guid>395</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>396.成长 《写作这回事（上）》（惊悚小说大王斯蒂芬·金教的写作秘籍）</title>
+      <itunes:episode>396</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/396.mp3" type="audio/mpeg"/>
+      <guid>396</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>397.成长 《写作这回事（下）》（惊悚小说大王斯蒂芬·金教的写作秘籍）</title>
+      <itunes:episode>397</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/397.mp3" type="audio/mpeg"/>
+      <guid>397</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>398.科普 《种子的故事（上）》：是人类驯服了植物，还是植物操纵着人类？</title>
+      <itunes:episode>398</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/398.mp3" type="audio/mpeg"/>
+      <guid>398</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>399.科普 《种子的故事（下）》：是人类驯服了植物，还是植物操纵着人类？</title>
+      <itunes:episode>399</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/399.mp3" type="audio/mpeg"/>
+      <guid>399</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>400.科普《别逗了，美国宇航局（上）》：看人类如何征服浩瀚宇宙</title>
+      <itunes:episode>400</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/400.mp3" type="audio/mpeg"/>
+      <guid>400</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>401.科普《别逗了，美国宇航局（下）》</title>
+      <itunes:episode>401</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/401.mp3" type="audio/mpeg"/>
+      <guid>401</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>402.成长 《高效的秘密（上）》高效是一种科学和平衡</title>
+      <itunes:episode>402</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/402.mp3" type="audio/mpeg"/>
+      <guid>402</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>403.成长 《高效的秘密（下）》为你系统揭示高效的秘密</title>
+      <itunes:episode>403</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/403.mp3" type="audio/mpeg"/>
+      <guid>403</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>404.纪实 《厌女：日本的女性嫌恶（下）》：男权社会下的扭曲心理</title>
+      <itunes:episode>404</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/404.mp3" type="audio/mpeg"/>
+      <guid>404</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>405.纪实 《厌女：日本的女性嫌恶（上）》：男权社会下的扭曲心理</title>
+      <itunes:episode>405</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/405.mp3" type="audio/mpeg"/>
+      <guid>405</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>406.经管 《就业、利息和货币通论（下）》凯恩斯重要经济学著作</title>
+      <itunes:episode>406</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/406.mp3" type="audio/mpeg"/>
+      <guid>406</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>407.经管 《就业、利息和货币通论（上）》凯恩斯重要经济学著作</title>
+      <itunes:episode>407</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/407.mp3" type="audio/mpeg"/>
+      <guid>407</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>408.社科 《雄性衰落（下）》心理学大师菲利普·津巴多解析男性各方面能力下降原因</title>
+      <itunes:episode>408</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/408.mp3" type="audio/mpeg"/>
+      <guid>408</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>409.社科 《雄性衰落（上）》心理学大师菲利普·津巴多解析男性各方面能力下降原因</title>
+      <itunes:episode>409</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/409.mp3" type="audio/mpeg"/>
+      <guid>409</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>410.历史 《孙子兵法》：中国最古老最杰出的一部兵书（孙武）</title>
+      <itunes:episode>410</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/410.mp3" type="audio/mpeg"/>
+      <guid>410</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>411.心理 《被讨厌的勇气》</title>
+      <itunes:episode>411</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/411.mp3" type="audio/mpeg"/>
+      <guid>411</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>412.心理 《大脑的情绪生活》：做情绪的操盘手</title>
+      <itunes:episode>412</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/412.mp3" type="audio/mpeg"/>
+      <guid>412</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>413.文学 《白鹿原(下)》陈忠实：古怪人性，离奇故事</title>
+      <itunes:episode>413</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/413.mp3" type="audio/mpeg"/>
+      <guid>413</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>414.文学 《白鹿原(上)》陈忠实：关中平原上的史诗，半个世纪的民族秘史</title>
+      <itunes:episode>414</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/414.mp3" type="audio/mpeg"/>
+      <guid>414</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>415.文学 【陕西方言版】《白鹿原 》</title>
+      <itunes:episode>415</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/415.mp3" type="audio/mpeg"/>
+      <guid>415</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>416.科普 《海错图笔记》</title>
+      <itunes:episode>416</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/416.mp3" type="audio/mpeg"/>
+      <guid>416</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>417.社科 《英国人的言行潜规则》</title>
+      <itunes:episode>417</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/417.mp3" type="audio/mpeg"/>
+      <guid>417</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>418.生活 《人类“吸猫”小史》</title>
+      <itunes:episode>418</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/418.mp3" type="audio/mpeg"/>
+      <guid>418</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>419.科普 《解码宇宙》</title>
+      <itunes:episode>419</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/419.mp3" type="audio/mpeg"/>
+      <guid>419</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>420.成长 《如何戒掉坏习惯》</title>
+      <itunes:episode>420</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/420.mp3" type="audio/mpeg"/>
+      <guid>420</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>421.科普 《码书：编码与解码的战争》</title>
+      <itunes:episode>421</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/421.mp3" type="audio/mpeg"/>
+      <guid>421</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>422.历史 《北洋军阀史》</title>
+      <itunes:episode>422</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/422.mp3" type="audio/mpeg"/>
+      <guid>422</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>423.历史 《奠基者：独立战争那一代》</title>
+      <itunes:episode>423</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/423.mp3" type="audio/mpeg"/>
+      <guid>423</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>424.纪实 《血疫：埃博拉的故事》</title>
+      <itunes:episode>424</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/424.mp3" type="audio/mpeg"/>
+      <guid>424</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>425.文学 《围城》：钱钟书代表作，中国现代文学经典必读</title>
+      <itunes:episode>425</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/425.mp3" type="audio/mpeg"/>
+      <guid>425</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>426.科普《每个人的战争》</title>
+      <itunes:episode>426</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/426.mp3" type="audio/mpeg"/>
+      <guid>426</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>427.科普《机舱机密》</title>
+      <itunes:episode>427</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/427.mp3" type="audio/mpeg"/>
+      <guid>427</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>428.科普 《所罗门王的指环》</title>
+      <itunes:episode>428</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/428.mp3" type="audio/mpeg"/>
+      <guid>428</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>429.成长 《你要如何衡量你的人生》找到人生的指南针</title>
+      <itunes:episode>429</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/429.mp3" type="audio/mpeg"/>
+      <guid>429</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>430.经管 《人月神话》</title>
+      <itunes:episode>430</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/430.mp3" type="audio/mpeg"/>
+      <guid>430</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>431.纪实《奥斯维辛：一部历史》</title>
+      <itunes:episode>431</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/431.mp3" type="audio/mpeg"/>
+      <guid>431</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>432.历史 《罪孽的报应》</title>
+      <itunes:episode>432</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/432.mp3" type="audio/mpeg"/>
+      <guid>432</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>433.科普 《永生的海拉》</title>
+      <itunes:episode>433</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/433.mp3" type="audio/mpeg"/>
+      <guid>433</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>434.心理《不要用爱控制我》：全球心理畅销书，如何摆脱以爱为名的控制</title>
+      <itunes:episode>434</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/434.mp3" type="audio/mpeg"/>
+      <guid>434</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>435.艺术 《西方美术史(下)》</title>
+      <itunes:episode>435</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/435.mp3" type="audio/mpeg"/>
+      <guid>435</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>436.艺术 《西方美术史(上)》</title>
+      <itunes:episode>436</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/436.mp3" type="audio/mpeg"/>
+      <guid>436</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>437.生活 《美好生活》：中产阶级生活图谱</title>
+      <itunes:episode>437</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/437.mp3" type="audio/mpeg"/>
+      <guid>437</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>438.科普 《人类找北史》</title>
+      <itunes:episode>438</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/438.mp3" type="audio/mpeg"/>
+      <guid>438</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>439.心理 《棉花糖实验》</title>
+      <itunes:episode>439</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/439.mp3" type="audio/mpeg"/>
+      <guid>439</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>440.经管 《高绩效教练》</title>
+      <itunes:episode>440</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/440.mp3" type="audio/mpeg"/>
+      <guid>440</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>441.投资 《专业投机原理》：从赌徒到宗师，华尔街最伟大交易员的投机方法论</title>
+      <itunes:episode>441</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/441.mp3" type="audio/mpeg"/>
+      <guid>441</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>442.历史 《秦谜》：在历史中享受推理的乐趣，发现一个陌生的秦始皇</title>
+      <itunes:episode>442</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/442.mp3" type="audio/mpeg"/>
+      <guid>442</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>443.社科 《合作的进化》 博弈论经典之作，什么是进化验证的最佳合作模式？</title>
+      <itunes:episode>443</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/443.mp3" type="audio/mpeg"/>
+      <guid>443</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>444.纪实 《烟雾弥漫你的眼》从火葬场得来的生命哲学，了解死，才明白生</title>
+      <itunes:episode>444</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/444.mp3" type="audio/mpeg"/>
+      <guid>444</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>445.文学 《呼兰河传》萧红自传体小说，为你讲述荒凉的黄金时代</title>
+      <itunes:episode>445</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/445.mp3" type="audio/mpeg"/>
+      <guid>445</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>446.艺术 《美学散步》美学大师一本小书，告诉你什么才是真正的中国美</title>
+      <itunes:episode>446</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/446.mp3" type="audio/mpeg"/>
+      <guid>446</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>447.科普 《太空将来时》收好这份太空旅行指南，我们的征途是星辰大海</title>
+      <itunes:episode>447</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/447.mp3" type="audio/mpeg"/>
+      <guid>447</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>448.传记 《德兰修女传》诺贝尔和平奖最没有争议的获奖者，在爱中思考生命价值和尊严</title>
+      <itunes:episode>448</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/448.mp3" type="audio/mpeg"/>
+      <guid>448</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>449.成长 《横向领导力》一个真正的团队领导的诞生，不靠授权</title>
+      <itunes:episode>449</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/449.mp3" type="audio/mpeg"/>
+      <guid>449</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>450.经管 《联盟》领英创始人解密,如何将全球人才变为你的人脉</title>
+      <itunes:episode>450</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/450.mp3" type="audio/mpeg"/>
+      <guid>450</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>451.历史 《乾隆帝》：法天隆运至诚先觉体元立极敷文奋武钦明孝慈神圣纯皇帝</title>
+      <itunes:episode>451</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/451.mp3" type="audio/mpeg"/>
+      <guid>451</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>452.历史 《丝绸之路新史-下》穿越荒芜的流沙，重归丝路七古城，一场绝对超乎想象的旅程</title>
+      <itunes:episode>452</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/452.mp3" type="audio/mpeg"/>
+      <guid>452</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>453.历史 《丝绸之路新史-上》穿越荒芜的流沙，重归丝路七古城，一场绝对超乎想象的旅程</title>
+      <itunes:episode>453</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/453.mp3" type="audio/mpeg"/>
+      <guid>453</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>454.社科 《历史深处的忧虑》：自由不是平白而来，美国人为了维护自由，付出了什么代价？</title>
+      <itunes:episode>454</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/454.mp3" type="audio/mpeg"/>
+      <guid>454</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>455.社科 《事实（下）》：你对世界有什么误解？比尔·盖茨2018夏季推荐书</title>
+      <itunes:episode>455</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/455.mp3" type="audio/mpeg"/>
+      <guid>455</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>456.社科 《事实（上）》：你对世界有什么误解？比尔·盖茨2018夏季推荐书</title>
+      <itunes:episode>456</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/456.mp3" type="audio/mpeg"/>
+      <guid>456</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>457.文学 《失明症漫记》：诺奖作家萨拉马戈巅峰之作，一个失明世界的末日寓言</title>
+      <itunes:episode>457</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/457.mp3" type="audio/mpeg"/>
+      <guid>457</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>458.成长 《不要等到毕业以后》：一直在答疑从来不休息的秋叶大叔，教你学会独立思考</title>
+      <itunes:episode>458</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/458.mp3" type="audio/mpeg"/>
+      <guid>458</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>459.生活 《老北京的生活》：帮助你了解老北京市井生活的一本百科全书</title>
+      <itunes:episode>459</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/459.mp3" type="audio/mpeg"/>
+      <guid>459</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>460.科普 《暗物质与恐龙》：地球霸主突然神秘消失，朗朗乾坤谁是幕后黑手？</title>
+      <itunes:episode>460</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/460.mp3" type="audio/mpeg"/>
+      <guid>460</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>461.成长 《别独自用餐》：最棒的社交达人根本不社交——他们只是“交好朋友”</title>
+      <itunes:episode>461</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/461.mp3" type="audio/mpeg"/>
+      <guid>461</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>462.经管 《赢》：一部生动的MBA教材，第一CEO韦尔奇的商业智慧</title>
+      <itunes:episode>462</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/462.mp3" type="audio/mpeg"/>
+      <guid>462</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>463.社科 《中国国民性演变历程》：专制制度的演进导致了国民性格的大倒退</title>
+      <itunes:episode>463</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/463.mp3" type="audio/mpeg"/>
+      <guid>463</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>464.历史 《瘟疫与人》：那些杀不死你的瘟疫，让你变得更强大</title>
+      <itunes:episode>464</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/464.mp3" type="audio/mpeg"/>
+      <guid>464</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>465.社科 《梳毛、八卦及语言的进化》：为什么你最多只能有150个熟人？</title>
+      <itunes:episode>465</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/465.mp3" type="audio/mpeg"/>
+      <guid>465</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>466.纪实 《寡头：新俄罗斯的财富与权力》：资本家如何窃取国家财富？</title>
+      <itunes:episode>466</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/466.mp3" type="audio/mpeg"/>
+      <guid>466</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>467.文学 《卖花女》：男人有权根据自己的意愿来塑造女人吗？</title>
+      <itunes:episode>467</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/467.mp3" type="audio/mpeg"/>
+      <guid>467</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>468.生活 《游戏改变世界》：游戏除了消遣还有什么意义？</title>
+      <itunes:episode>468</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/468.mp3" type="audio/mpeg"/>
+      <guid>468</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>469.科普 《蛊惑世界的力量》：让人欲罢不能的上瘾史</title>
+      <itunes:episode>469</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/469.mp3" type="audio/mpeg"/>
+      <guid>469</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>470.科普 《发现的乐趣》：与费曼一同体会科学的魅力</title>
+      <itunes:episode>470</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/470.mp3" type="audio/mpeg"/>
+      <guid>470</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>471.心理 《为什么学生不喜欢上学》：揭秘人类思考惰性之谜</title>
+      <itunes:episode>471</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/471.mp3" type="audio/mpeg"/>
+      <guid>471</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>472.经管  《指数型组织》 打造独角兽公司的11个最强属性</title>
+      <itunes:episode>472</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/472.mp3" type="audio/mpeg"/>
+      <guid>472</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>473.历史 《三国前传》：汉末群雄天子梦</title>
+      <itunes:episode>473</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/473.mp3" type="audio/mpeg"/>
+      <guid>473</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>474.成长《内向者优势》如何在外向的世界中获得成功</title>
+      <itunes:episode>474</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/474.mp3" type="audio/mpeg"/>
+      <guid>474</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>475.心理 《具身认知》：身体如何影响思维和行为</title>
+      <itunes:episode>475</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/475.mp3" type="audio/mpeg"/>
+      <guid>475</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>476.文学 《安妮日记》：少女如何面对纳粹暴行？</title>
+      <itunes:episode>476</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/476.mp3" type="audio/mpeg"/>
+      <guid>476</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>477.生活 《吃土》：强健肠道、提升免疫的整体健康革命</title>
+      <itunes:episode>477</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/477.mp3" type="audio/mpeg"/>
+      <guid>477</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>478.科普  《费曼讲物理》：近距离感受物理大师的风采</title>
+      <itunes:episode>478</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/478.mp3" type="audio/mpeg"/>
+      <guid>478</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>479.成长 《终身成长》重新定义成功的思维模式</title>
+      <itunes:episode>479</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/479.mp3" type="audio/mpeg"/>
+      <guid>479</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>480.经管 《日本电子产业兴衰录》：从如日中天到盛极而衰</title>
+      <itunes:episode>480</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/480.mp3" type="audio/mpeg"/>
+      <guid>480</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>481.经管 《理性乐观派》：一部人类经济进化史</title>
+      <itunes:episode>481</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/481.mp3" type="audio/mpeg"/>
+      <guid>481</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>482.历史 《法国革命史（下）》：让所有想腐蚀或奴役别人的那类人不得安眠</title>
+      <itunes:episode>482</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/482.mp3" type="audio/mpeg"/>
+      <guid>482</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>483.历史 《法国革命史（上）》：让所有想腐蚀或奴役别人的那类人不得安眠</title>
+      <itunes:episode>483</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/483.mp3" type="audio/mpeg"/>
+      <guid>483</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>484.科普 《那颗星星不在星图上》：寻找太阳系的疆界</title>
+      <itunes:episode>484</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/484.mp3" type="audio/mpeg"/>
+      <guid>484</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>485.心理 《象与骑象人》：如何克服内心冲动，获得幸福人生？</title>
+      <itunes:episode>485</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/485.mp3" type="audio/mpeg"/>
+      <guid>485</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>486.文学 《1Q84》：村上春树的突破之作</title>
+      <itunes:episode>486</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/486.mp3" type="audio/mpeg"/>
+      <guid>486</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>487.心理 《孤独：回归自我》：天才为何爱与孤独相伴？</title>
+      <itunes:episode>487</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/487.mp3" type="audio/mpeg"/>
+      <guid>487</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>488.科普 《生命是什么》：薛定谔不止爱猫，还热爱整个生物界</title>
+      <itunes:episode>488</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/488.mp3" type="audio/mpeg"/>
+      <guid>488</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>489.文学 《了不起的盖茨比》： 靠打拼奋斗发财的凤凰男，能娶到白富美吗？</title>
+      <itunes:episode>489</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/489.mp3" type="audio/mpeg"/>
+      <guid>489</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>490.经管 《免费》：未来商业的趋势</title>
+      <itunes:episode>490</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/490.mp3" type="audio/mpeg"/>
+      <guid>490</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>491.传记 《人间鲁迅》：让我们这个民族伟大的人物</title>
+      <itunes:episode>491</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/491.mp3" type="audio/mpeg"/>
+      <guid>491</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>492.社科【牛津通识】《美国总统制》：美国总统的权力远远不如他的出镜率</title>
+      <itunes:episode>492</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/492.mp3" type="audio/mpeg"/>
+      <guid>492</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>493.传记 《曾国藩的正面与侧面》：从历史细节中挖掘一个更为立体的曾国藩</title>
+      <itunes:episode>493</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/493.mp3" type="audio/mpeg"/>
+      <guid>493</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>494.社科 《理性动物》：人类不理性的行为背后隐藏着怎样的深层理性？</title>
+      <itunes:episode>494</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/494.mp3" type="audio/mpeg"/>
+      <guid>494</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>495.文学  《日瓦戈医生》：20世纪史诗级小说</title>
+      <itunes:episode>495</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/495.mp3" type="audio/mpeg"/>
+      <guid>495</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>496.文学 《英国病人》：战争废墟中的人们如何重生？</title>
+      <itunes:episode>496</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/496.mp3" type="audio/mpeg"/>
+      <guid>496</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>497.文学 《雾都孤儿》：现实主义大师狄更斯成名作</title>
+      <itunes:episode>497</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/497.mp3" type="audio/mpeg"/>
+      <guid>497</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>498.生活 《最好的抉择》：关于看病就医你要知道的常识</title>
+      <itunes:episode>498</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/498.mp3" type="audio/mpeg"/>
+      <guid>498</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>499.经管 《策略思维》：商界、政界及日常生活中的策略竞争</title>
+      <itunes:episode>499</itunes:episode>
+      <enclosure url="https://github.com/Kukukukiki192/hima-booktalk-podcast/releases/download/v1.0/499.mp3" type="audio/mpeg"/>
+      <guid>499</guid>
+      <pubDate>Tue, 22 Jul 2025 18:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
